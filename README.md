@@ -1,2 +1,0 @@
-# wrqd-main
-algebra--xlab
